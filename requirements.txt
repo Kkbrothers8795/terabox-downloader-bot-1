@@ -8,3 +8,5 @@ pillow
 hachoir
 requests
 redis
+Flask
+gunicorn==20.1.0
